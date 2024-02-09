@@ -1,9 +1,9 @@
 #Placement Prediction README
 
-#Overview
+#Overview : 
 This repository contains a dataset and code for a Placement Prediction System. The system is designed to predict whether a person can be able to get a placement or not. The dataset includes information of the person's age,CGPA,History of Backlogs,Number of internships,Hosteler or not,Gender.
 
-#Dataset
+#Dataset :
 The dataset is provided in a CSV (Comma-Separated Values) format with the following columns:
 Age: Numeric variable representing the person's age.
 Gender: Categorical variable indicating the gender of the person.
